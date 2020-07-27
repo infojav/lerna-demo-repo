@@ -1,7 +1,11 @@
 {
   "name": "root",
   "version": "0.0.1",
+  "repository": "git@github.com:infojav/lerna-demo-repo.git",
   "private": true,
+  "scripts": {
+    "lerna:version": "lerna version --conventional-commits --no-changelog --no-commit-hooks --yes --no-push"
+  },
   "devDependencies": {
     "lerna": "^3.21.0",
     "lerna-changelog": "^1.0.1"

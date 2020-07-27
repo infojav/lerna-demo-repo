@@ -32,3 +32,4 @@ charts/
 
 # Env file
 *.env
+*.env.*
