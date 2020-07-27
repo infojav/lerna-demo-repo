@@ -4,7 +4,8 @@
   "repository": "git@github.com:infojav/lerna-demo-repo.git",
   "private": true,
   "scripts": {
-    "lerna:version": "lerna version --conventional-commits --no-changelog --no-commit-hooks --yes --no-push"
+    "lerna:version": "lerna version --conventional-commits --no-changelog --no-commit-hooks --yes --no-push",
+    "changelog:help": "$(npm bin)/lerna-changelog --help"
   },
   "devDependencies": {
     "lerna": "^3.21.0",
