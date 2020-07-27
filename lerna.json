@@ -11,8 +11,20 @@
   },
   "changelog": {
     "labels": {
-      "feature": "New Feature",
-      "bug": "Bug Fix"
+      "breaking": "Breaking Change",
+      "bug": "Bug Fix",
+      "enhancement": "Enhancement",
+      "documentation": "Documentation",
+      "internal": "Internal",
+      "----": "----------------------",
+      "fix": "Bug Fix",
+      "feat":  "New Feature",
+      "chore": "Chore Changes",
+      "docs": "Documentation",
+      "style": "Style Changes",
+      "refactor": "Refactor Changes",
+      "perf": "Performance Improvement",
+      "test": "Tests Improvement"
     }
   }
 }
