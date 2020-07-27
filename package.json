@@ -1,0 +1,9 @@
+{
+  "name": "root",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.21.0",
+    "lerna-changelog": "^1.0.1"
+  }
+}

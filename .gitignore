@@ -1,0 +1,34 @@
+# Editors
+.vscode
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Dependency directory
+node_modules
+
+# Code coverage
+coverage
+
+# Yarn files
+yarn-error.log*
+yarn.lock
+
+# npm files
+package-lock.json
+
+# temp files
+*.tmp
+
+# Terraform files
+.terraform
+
+# Helm
+charts/
+.helm.options
+
+# Env file
+*.env
