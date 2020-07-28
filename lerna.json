@@ -25,6 +25,9 @@
       "refactor": "Refactor Changes",
       "perf": "Performance Improvement",
       "test": "Tests Improvement"
-    }
+    },
+    "ignoreCommitters": [
+      "infojav"
+    ]
   }
 }
