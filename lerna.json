@@ -27,7 +27,6 @@
       "test": "Tests Improvement"
     },
     "ignoreCommitters": [
-      "infojav"
     ]
   }
 }

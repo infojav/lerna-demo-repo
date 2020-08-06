@@ -1,6 +1,8 @@
-### Change Log (July 28th 2020)
 
-##### Chores
+## v0.0.2 (2020-07-28)
 
-* **PPNA-666:**  more things (1d21a189)
+#### Chore Changes
+* [#1](https://github.com/infojav/lerna-demo-repo/pull/1) create packages structure ([@infojav](https://github.com/infojav))
 
+#### Committers: 1
+- Javier Perea ([@infojav](https://github.com/infojav))
